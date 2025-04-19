@@ -6,3 +6,5 @@ ipykernel
 plotly
 seaborn
 scikit-learn
+xgboost
+lightgbm
