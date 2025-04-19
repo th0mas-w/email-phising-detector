@@ -5,4 +5,4 @@ numpy
 ipykernel
 plotly
 seaborn
-ipython
+scikit-learn
